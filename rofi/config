@@ -1,0 +1,3 @@
+rofi.terminal: tilix
+rofi.ssh-client: ssh
+rofi.theme: /usr/share/rofi/themes/gruvbox-dark-hard.rasi
